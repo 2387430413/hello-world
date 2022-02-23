@@ -1,2 +1,4 @@
 # hello-world
-My first repository on GitHub
+My first repository on GitHu
+
+I love rice and noodle
